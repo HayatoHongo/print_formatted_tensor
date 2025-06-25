@@ -16,4 +16,4 @@ A lightweight Python utility function for **cleanly printing PyTorch tensors**, 
 You can install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/HongoHayato/print_formatted_tensor.git
+pip install git+https://github.com/HayatoHongo/print_formatted_tensor.git
